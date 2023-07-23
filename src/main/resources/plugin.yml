@@ -1,0 +1,9 @@
+name: DunoFishing
+version: 1.0
+author: Jannnnek
+main: de.jannnnek.duno.Duno
+api-version: '1.20'
+depend: [Citizens]
+
+commands:
+  switch:
